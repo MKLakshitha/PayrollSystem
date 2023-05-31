@@ -6,7 +6,7 @@ It is made up using JAVA RMI architecture.
 
 
 
-#howtoRunIt
+# howtoRunIt
 
 1.open cmd
 
@@ -23,6 +23,7 @@ It is made up using JAVA RMI architecture.
 Username:employeeid generated when registerd
 
 password:password generated when registerd
+
 </br>
 <img width="452" alt="image" src="https://github.com/MKLakshitha/PayrollSystem/assets/93935134/bae3a699-78bd-48d0-8b4a-a0f8930237cc">
 <img width="452" alt="image" src="https://github.com/MKLakshitha/PayrollSystem/assets/93935134/cdf8fd3d-8895-40dd-a0f5-a270b6e15a86">
